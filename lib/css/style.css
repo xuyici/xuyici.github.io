@@ -1,0 +1,57 @@
+
+body
+{
+  margin: 0;
+  background-color: #ffffff;
+}
+a{
+  text-decoration: none;
+}
+.content
+{
+  width: 60%;
+  margin: 0 auto;
+}
+.header
+  {
+    padding-top: 32px;
+    padding-bottom: 32px;
+    padding-left: 20%;
+    padding-right: 20%;
+    background: #f10180;
+  }
+  .titleText
+  {
+    font-family: fantasy;
+    font-weight: bold;
+    color:white;
+    font-size: 32px;
+  }
+  tr
+  {
+    height: 45px;
+  }
+  .line
+  {
+    height: 1px;
+    background-color: #e1e1e1;
+  }
+  .table_content
+  {
+    font-size: 16px;
+    width: 80%;
+    margin: 0 auto;
+  }
+  td.title
+  {
+    text-align: left;
+  }
+  .link
+  {
+    color: #f10180;
+  }
+  td.time
+  {
+    text-align: right;
+    color: #999999;
+  }
